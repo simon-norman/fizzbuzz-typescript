@@ -13,6 +13,6 @@ const fizzbuzz = (no: number): any => {
   }
 
   return no
-}
+} 
 
 export default fizzbuzz;
