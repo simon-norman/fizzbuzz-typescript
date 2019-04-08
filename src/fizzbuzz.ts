@@ -12,7 +12,7 @@ const fizzbuzz = (no: number): any => {
     return 'buzz'
   }
 
-  return no  
+  return no 
 } 
 
 export default fizzbuzz;
